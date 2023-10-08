@@ -42,8 +42,10 @@ const Demo = () => {
           </button>
         </form>
 
-        {/* Brose URL History */}
+        {/* Browse URL History */}
       </div>
+
+      {/*Display Results  */}
     </section>
   )
 }
